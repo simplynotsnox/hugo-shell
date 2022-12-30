@@ -1,7 +1,7 @@
 baseURL = "https://snox.cf/"
 languageCode = "en-us"
 title = "snox is cool"
-theme = "hugo-theme-shell"
+theme = "Gogh"
 
 [author]
   name = "Andrew (Snox)"
