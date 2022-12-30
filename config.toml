@@ -14,7 +14,7 @@ theme = "hugo-theme-shell"
 
     userName = "snox"
     pcName = "desktop"
-    workDir = "portfolio"
+    workDir = "hello world"
     profile = "about.txt"
 
     description = """
@@ -25,9 +25,9 @@ theme = "hugo-theme-shell"
 
     [Params.Tree]
     use = true
+    folderName = "socials"
     files = [
         ["Github", "https://github.com/SimplySnox/"],
         ["Twitch", "https://twitch.tv/SimplySnox/"],
-        ["Discord", "https://discord.gg/Ggj23D325t"],
-        ["Hugo", "/works/hugo.md"]
+        ["Discord", "https://discord.gg/Ggj23D325t"]
     ]
