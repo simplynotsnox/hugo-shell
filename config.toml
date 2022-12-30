@@ -1,7 +1,7 @@
 baseURL = "https://snox.cf/"
 languageCode = "en-us"
 title = "snox is cool"
-theme = "gogh"
+theme = "hugo-theme-shell"
 
 [author]
   name = "Andrew (Snox)"
@@ -13,11 +13,10 @@ theme = "gogh"
 [Params]
     [Params.Navbar]
     use = true
-
     description = "snox's portfolio"
 
     [Params.Terminal]
-    scheme = "Dracula"
+    scheme = "Molokai"
     
     userName = "snox"
     pcName = "desktop"
