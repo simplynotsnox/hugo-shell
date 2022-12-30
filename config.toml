@@ -19,8 +19,8 @@ theme = "Gogh"
     [Params.Terminal]
     scheme = "Dracula"
 
-    userName = "root"
-    pcName = "snox.cf"
+    userName = "snox"
+    pcName = "desktop"
     workDir = "home"
     profile = "about.txt"
 
