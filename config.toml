@@ -42,7 +42,6 @@ ignoreErrors = ["error-remote-getjson"]
         ["Discord", "https://discord.gg/Ggj23D325t"]
     ]
 
-    [Params.Tree]
     folderName = "experience"
     description = """
     I have experience in various different languages
