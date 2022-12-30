@@ -15,7 +15,7 @@ theme = "hugo-theme-shell"
     userName = "snox"
     pcName = "desktop"
     workDir = "portfolio"
-    profile = "profile.txt"
+    profile = "about.txt"
 
     description = """
     Hi 👋 I'm Andrew, or commonly known as 'Snox'
