@@ -10,8 +10,8 @@ theme = "hugo-theme-shell"
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
+        ["Github", "https://github.com/SimplySnox/"],
+        ["Twitch", "https://twitch.tv/SimplySnox/"],
+        ["Discord", "https://discord.gg/Ggj23D325t"],
         ["Hugo", "/works/hugo.md"]
     ]
