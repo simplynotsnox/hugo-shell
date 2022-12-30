@@ -4,13 +4,26 @@ title = "snox is cool"
 theme = "hugo-theme-shell"
 
 [Params]
+    [Params.Navbar]
+    use = true
+
+    description = "snox's portfolio"
+
     [Params.Terminal]
-    schema = "monokai"
+    schema = "dracula"
 
     userName = "snox"
     pcName = "desktop"
     workDir = "portfolio"
     profile = "profile.txt"
+
+    description = """
+    Hi 👋 I'm Andrew, or commonly
+    known as 'Snox' online. Most
+    people know me as a guy who likes
+    to develop discord bots for others.
+
+    """
 
     [Params.Tree]
     use = true
