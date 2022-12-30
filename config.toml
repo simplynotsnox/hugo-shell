@@ -33,7 +33,7 @@ theme = "hugo-theme-shell"
 
     """
 
-    [Params.Tree]
+    [Params.ls]
     use = true
     folderName = "socials"
     files = [
