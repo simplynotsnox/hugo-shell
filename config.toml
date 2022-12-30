@@ -10,7 +10,7 @@ theme = "hugo-theme-shell"
     description = "snox's portfolio"
 
     [Params.Terminal]
-    schema = "dracula"
+    schema = "Dracula"
 
     userName = "snox"
     pcName = "desktop"
@@ -18,10 +18,8 @@ theme = "hugo-theme-shell"
     profile = "profile.txt"
 
     description = """
-    Hi 👋 I'm Andrew, or commonly
-    known as 'Snox' online. Most
-    people know me as a guy who likes
-    to develop discord bots for others.
+    Hi 👋 I'm Andrew, or commonly known as 'Snox'
+    online. I'm 
 
     """
 
