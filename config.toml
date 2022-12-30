@@ -2,6 +2,7 @@ baseURL = "https://snox.cf/"
 languageCode = "en-us"
 title = "snox is cool"
 theme = "hugo-theme-shell"
+ignoreErrors = ["error-remote-getjson"]
 
 [author]
   name = "Andrew (Snox)"
@@ -30,7 +31,6 @@ theme = "hugo-theme-shell"
     
     I commonly use languages and frameworks
     such as Node.js, Javascript, Python, and more.
-
     """
 
     [Params.Tree]
@@ -40,4 +40,18 @@ theme = "hugo-theme-shell"
         ["Github", "https://github.com/SimplySnox/"],
         ["Twitch", "https://twitch.tv/SimplySnox/"],
         ["Discord", "https://discord.gg/Ggj23D325t"]
+    ]
+
+    [Params.Tree]
+    folderName = "experience"
+    description = """
+    I have experience in various different languages
+    (mainly Javascript, Python, etc), but I also have a
+    lot of experience moderating & managing many different
+    discord servers. Some of these discords are listed below.
+    """
+    files = [
+        ["(Previously managed) QuietStates", "https://discord.gg/cpnNzNMvQS"],
+        ["(Previously administered) Gryffyn's Studio", "https://discord.gg/NZA9z569Gg"],
+        ["(Current: Admin) Shrimp's Island", "https://discord.gg/q4qwQwjktX"]
     ]
