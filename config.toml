@@ -1,6 +1,6 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://snox.cf/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "snox is cool"
 theme = "hugo-theme-shell"
 
 [Params]
