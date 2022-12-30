@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "snox is cool"
 theme = "hugo-theme-shell"
 
+[author]
+  name = "Andrew (Snox)"
+  homepage = "https://snox.cf"
+  twitch = "https://twitch.tv/SimplySnox"
+  discord = "https://discord.gg/"
+  twitter = "https://twitter.com/SimplySnox"
+
 [Params]
     [Params.Navbar]
     use = true
@@ -12,14 +19,16 @@ theme = "hugo-theme-shell"
     [Params.Terminal]
     scheme = "Dracula"
 
-    userName = "snox"
-    pcName = "desktop"
-    workDir = "hello world"
+    userName = "root"
+    pcName = "snox.cf"
+    workDir = "home"
     profile = "about.txt"
 
     description = """
-    Hi 👋 I'm Andrew, or commonly known as 'Snox'
-    online. I'm 
+    Hi 👋 I'm Andrew, or commonly known
+    as 'Snox' online. I enjoy coding
+    different projects for myself
+    and close friends.
 
     """
 
