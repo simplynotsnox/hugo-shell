@@ -7,7 +7,7 @@ theme = "hugo-theme-shell"
   name = "Andrew (Snox)"
   homepage = "https://snox.cf"
   twitch = "https://twitch.tv/SimplySnox"
-  discord = "https://discord.gg/"
+  discord = "https://discord.gg/Ggj23D325t"
   twitter = "https://twitter.com/SimplySnox"
 
 [Params]
@@ -24,9 +24,9 @@ theme = "hugo-theme-shell"
     profile = "about.txt"
 
     description = """
-    Hi 👋 I'm Andrew, or commonly known as
-    'Snox' online. I enjoy coding different
-    projects for myself and close friends.
+    Hi there! I'm Snox. I enjoy coding
+    different projects for myself and
+    close friends.
     
     I commonly use languages and frameworks
     such as Node.js, Javascript, Python, and more.
