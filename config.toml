@@ -2,7 +2,8 @@ baseURL = "https://snox.cf/"
 languageCode = "en-us"
 title = "snox is cool"
 theme = "hugo-theme-shell"
-ignoreErrors = ["error-remote-getjson"]
+
+# ignoreErrors = ["error-remote-getjson"]
 
 [author]
   name = "Andrew (Snox)"
@@ -85,3 +86,7 @@ ignoreErrors = ["error-remote-getjson"]
       icon = "fa-twitter"
       url= "https://twitter.com/SimplySnox"
       label = "Twitter"
+
+[[module.mounts]]
+  source = 'assets'
+  target = 'assets'
