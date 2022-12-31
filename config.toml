@@ -16,6 +16,10 @@ ignoreErrors = ["error-remote-getjson"]
     use = true
     description = "snox's portfolio"
 
+    [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
     [Params.Terminal]
     scheme = "Molokai"
     
@@ -32,6 +36,34 @@ ignoreErrors = ["error-remote-getjson"]
     I commonly use languages and frameworks
     such as Node.js, Javascript, Python, and more.
     """
+
+    [params.contact]
+    enable = true
+    buttonSend = "Send message"
+    buttonClear = "Clear"
+
+    [[params.contact.email]]
+    title = "Email"
+    email = "hello@snox.cf"
+
+    [params.footer]
+    enable = true
+    copyright = "SimplySnox"
+
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://github.com/SimplySnox"
+      label = "Github"
+
+    [[params.footer.social]]
+      icon = "fa-discord"
+      url= "https://discord.gg/Ggj23D325t"
+      label = "Discord"
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://twitter.com/SimplySnox"
+      label = "Twitter"
 
     [Params.Tree]
     use = true
