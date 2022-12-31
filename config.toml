@@ -16,10 +16,6 @@ ignoreErrors = ["error-remote-getjson"]
     use = true
     description = "snox's portfolio"
 
-    [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
-
     [Params.Terminal]
     scheme = "Molokai"
     
@@ -41,9 +37,9 @@ ignoreErrors = ["error-remote-getjson"]
     use = true
     folderName = "socials"
     files = [
-        ["Github", "https://github.com/SimplySnox/"],
-        ["Twitch", "https://twitch.tv/SimplySnox/"],
-        ["Discord", "https://discord.gg/Ggj23D325t"]
+        ["Github", "/github"],
+        ["Twitch", "/twitch"],
+        ["Discord", "/discord"]
     ]
 
     folderNamee = "experience"
