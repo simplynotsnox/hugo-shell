@@ -29,5 +29,8 @@ HUGO_VERSION = "0.85.0"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[redirects]
-/discord  https://discord.gg/Ggj23D325t/:splat  200!
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.gg/Ggj23D325t"
+  status = 200
+  force = true
