@@ -37,6 +37,31 @@ ignoreErrors = ["error-remote-getjson"]
     such as Node.js, Javascript, Python, and more.
     """
 
+    [Params.Tree]
+    use = true
+    folderName = "socials"
+    files = [
+        ["Github", "https://github.com/SimplySnox/"],
+        ["Twitch", "https://twitch.tv/SimplySnox/"],
+        ["Discord", "https://discord.gg/Ggj23D325t"]
+    ]
+
+    folderNamee = "experience"
+    description = """
+    I have experience in various different languages
+    (mainly Javascript, Python, etc), but I also have a
+    lot of experience moderating & managing many different
+    discord servers. Some of these discords are listed below.
+    """
+    filess = [
+        ["(Previously managed) QuietStates", "https://discord.gg/cpnNzNMvQS"],
+        ["(Previously administered) Gryffyn's Studio", "https://discord.gg/NZA9z569Gg"],
+        ["(Current: Admin) Shrimp's Island", "https://discord.gg/q4qwQwjktX"]
+    ]
+
+
+
+
     [params.contact]
     enable = true
     buttonSend = "Send message"
@@ -64,25 +89,3 @@ ignoreErrors = ["error-remote-getjson"]
       icon = "fa-twitter"
       url= "https://twitter.com/SimplySnox"
       label = "Twitter"
-
-    [Params.Tree]
-    use = true
-    folderName = "socials"
-    files = [
-        ["Github", "https://github.com/SimplySnox/"],
-        ["Twitch", "https://twitch.tv/SimplySnox/"],
-        ["Discord", "https://discord.gg/Ggj23D325t"]
-    ]
-
-    folderName = "experience"
-    description = """
-    I have experience in various different languages
-    (mainly Javascript, Python, etc), but I also have a
-    lot of experience moderating & managing many different
-    discord servers. Some of these discords are listed below.
-    """
-    files = [
-        ["(Previously managed) QuietStates", "https://discord.gg/cpnNzNMvQS"],
-        ["(Previously administered) Gryffyn's Studio", "https://discord.gg/NZA9z569Gg"],
-        ["(Current: Admin) Shrimp's Island", "https://discord.gg/q4qwQwjktX"]
-    ]
