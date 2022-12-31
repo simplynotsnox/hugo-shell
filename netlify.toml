@@ -34,3 +34,15 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://discord.gg/Ggj23D325t"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/twitch"
+  to = "https://twitch.tv/SimplySnox"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/SimplySnox"
+  status = 200
+  force = true
