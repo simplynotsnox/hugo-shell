@@ -8,3 +8,11 @@ body {
     color: #d08010; }
   body .Typewriter__cursor {
     color: #bbbbbb; }
+
+* {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
